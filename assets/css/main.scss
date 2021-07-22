@@ -1,0 +1,14 @@
+---
+---
+
+@import "site";
+
+header.post-header {
+  display: none;
+}
+
+body.layout-home {
+  aside.sidebar {
+    display: none;
+  }
+}
