@@ -1,7 +1,6 @@
 ---
 layout: page
 title: The Border Chronicles
-permalink: /archives/the-border-chronicles
 ---
 
 <div class="page-header">

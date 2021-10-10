@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Without You I'm Nothing Conversations between Windsor and Detroit
-permalink: /archives/without-you-im-nothing-conversations-between-windsor-and-detroit
 ---
 
 <div class="page-header">

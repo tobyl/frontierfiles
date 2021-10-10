@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Border Bookmobile on the Road
-permalink: /archives/border-bookmobile-on-the-road
 ---
 
 <div class="page-header">

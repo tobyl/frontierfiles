@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Border Artifacts
-permalink: /archives/border-artifacts
 ---
 
 <div class="page-header">
