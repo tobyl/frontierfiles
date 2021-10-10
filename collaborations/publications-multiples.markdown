@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications & Multiples
-permalink: /collaborations/publications-multiples
 ---
 
 <div class="page-header">
