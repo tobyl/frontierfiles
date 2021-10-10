@@ -19,3 +19,4 @@ defaults:
     values:
       layout: "default"
 
+permalink: /:year/:month/:title/

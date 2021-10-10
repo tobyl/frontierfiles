@@ -16,10 +16,10 @@ layout: home
         <h2>archives</h2>
 
         <ul class="list-unstyled">
-        <li><a href="archives/border-artifacts/index.html">Border Artifacts</a></li>
-        <li><a href="archives/border-bookmobile-on-the-road/index.html">Border Bookmobile On The Road</a></li>
-        <li><a href="archives/the-border-chronicles/index.html">The Border Chronicles</a></li>
-        <li><a href="archives/without-you-im-nothing-conversations-between-windsor-and-detroit/index.html">Without You I'm Nothing:<br>Conversations Between Windsor &amp; Detroit</a></li>
+        <li><a href="archives/border-artifacts/">Border Artifacts</a></li>
+        <li><a href="archives/border-bookmobile-on-the-road/">Border Bookmobile On The Road</a></li>
+        <li><a href="archives/the-border-chronicles/">The Border Chronicles</a></li>
+        <li><a href="archives/without-you-im-nothing-conversations-between-windsor-and-detroit/">Without You I'm Nothing:<br>Conversations Between Windsor &amp; Detroit</a></li>
         </ul>
 
     </div> <!-- left-side -->
@@ -29,12 +29,12 @@ layout: home
         <h2>collaborations</h2>
 
         <ul class="list-unstyled">
-        <li><a href="collaborations/border-cultures-diversions/index.html">Border Cultures/Diversions</a></li>
-        <li><a href="collaborations/deterritorializing-paul-bunyan/index.html">Deterritorializing Paul Bunyan</a></li>
-        <li><a href="collaborations/detroit-drive-through/index.html">Detroit Drive-Through</a></li>
-        <li><a href="collaborations/publications-multiples/index.html">Publications &amp; Multiples</a></li>
-        <li><a href="collaborations/tour-of-lost-and-forgotten-suburbsstorefront-residencies-for-social-innovation/index.html">Tour of Lost and Forgotten Suburbs/Storefront<br>Residencies for Social Innovation</a></li>
-        <li><a href="collaborations/undocumented-windsor-detroit/index.html">Undocumented Windsor-Detroit</a></li>
+        <li><a href="collaborations/border-cultures-diversions/">Border Cultures/Diversions</a></li>
+        <li><a href="collaborations/deterritorializing-paul-bunyan/">Deterritorializing Paul Bunyan</a></li>
+        <li><a href="collaborations/detroit-drive-through/">Detroit Drive-Through</a></li>
+        <li><a href="collaborations/publications-multiples/">Publications &amp; Multiples</a></li>
+        <li><a href="collaborations/tour-of-lost-and-forgotten-suburbsstorefront-residencies-for-social-innovation/">Tour of Lost and Forgotten Suburbs/Storefront<br>Residencies for Social Innovation</a></li>
+        <li><a href="collaborations/undocumented-windsor-detroit/">Undocumented Windsor-Detroit</a></li>
         </ul>
 
     </div> <!-- right-side -->
